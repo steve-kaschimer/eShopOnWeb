@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <AspNetVersion>9.0.0</AspNetVersion>
     <SystemExtensionVersion>9.0.0</SystemExtensionVersion>
-    <EntityFramworkCoreVersion>9.0.0</EntityFramworkCoreVersion>
+    <EntityFrameworkCoreVersion>9.0.0</EntityFrameworkCoreVersion>
     <VSCodeGeneratorVersion>9.0.0</VSCodeGeneratorVersion>
   </PropertyGroup>
   <ItemGroup>
